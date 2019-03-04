@@ -10,5 +10,6 @@ curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
 sudo apt install -y nodejs
 node -v
 npm --version
+# git
 echo "Installing git:"
 sudo apt-get --assume-yes install git
