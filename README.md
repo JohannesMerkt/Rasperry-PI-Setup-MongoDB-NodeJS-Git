@@ -1,4 +1,4 @@
-# Rasperry-PI-Setup-MongoDB-NodeJS-Git
+# Rasperry PI Setup for MongoDB, NodeJS and Git
 Installer for MongoDB, NodeJS and Git
 
 # Usage
